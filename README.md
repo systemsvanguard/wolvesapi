@@ -1,4 +1,4 @@
-# Wolves List API
+# Wolves List API 
 A simple JSON-base REST API based on JSON Placeholder. To be used/ consumed by my React.js and Vue.js projects, soon to be deployed.
 
 Live **Site Demo** ~ [Site ~ Wolves REST API](http://wolvesapi.ryanhunter.ca/wolves/) 
@@ -7,7 +7,7 @@ Live **GET All** ~ [https://wolvesapi.ryanhunter.ca/wolves](https://wolvesapi.ry
 
 Live **GET by ID 6** ~ [https://wolvesapi.ryanhunter.ca/wolves?id=6](https://wolvesapi.ryanhunter.ca/wolves?id=6) 
 
-![Wolves REST API ~ screen # 1](screens/screen_bigcatapi_02.webp )
+![Wolves REST API ~ screen # 1](screens/screen_wolves_02.webp )
 
 
 
@@ -44,8 +44,4 @@ This project is licensed under the terms of the **MIT** license.
 ![Wolves REST API ~ screenshot # 2](screens/screen_wolves_02.webp) 
 
 ![Wolves REST API ~ screenshot # 3](screens/screen_wolves_03.webp) 
-
-
-
-
 
