@@ -1,0 +1,227 @@
+{
+  "wolves": [
+    {
+      "id": 1,
+      "wolf_type": "Gray Wolf",
+      "scientific_name": "Canis lupus",
+      "wolf_img1": "gray.webp",
+      "page_slug": "gray",
+      "wiki": "https://en.wikipedia.org/wiki/Wolf",
+      "synopsis": "Different subspecies of Gray Wolf made their home in the untamed wilderness of North America, the remote expanses of Eurasia, and even the rugged landscapes of North Africa.<br /><br />The mammalogist Wallace Christopher Wozencraft listed 36 subspecies for this wolf species. Each one is perfectly adapted to its environment. <br /><br />For instance, the Arctic Wolf is a master of icy landscapes. At the same time, the Eurasian Wolf is a seasoned traveler, covering ground across Europe and Asia. And, of course, domesticated dogs are also under this type of wolf.<br /><br />Sadly, not all subspecies have stood the test of time. For example, Japan’s Hokkaido Wolf (Canis lupus hattai) became extinct in the late 19th century due to human interference and disease. <br /><br />Similarly, once a common sight, the Texas wolf (Canis lupus monstrabilis) and Bernard’s wolf (Canis lupus bernardi) disappeared in the mid-20th century.",
+      "slides_img": "slides_gray_wolf.webp", 
+      "wolf_img2": "gray_02.webp" 
+    },
+    {
+      "id": 2,
+      "wolf_type": "Eurasian Wolf",
+      "scientific_name": "Canis lupus lupus",
+      "wolf_img1": "eurasian.webp",
+      "page_slug": "eurasian",
+      "wiki": "https://en.wikipedia.org/wiki/Eurasian_wolf",
+      "synopsis": "The Eurasian Wolf is large and imposing, typically weighing between 70 and 130 pounds. They are sleek in stature with thick fur that varies from pure white to grey, brown, and even pure black. Their coats are denser and longer than other wolf subspecies, especially during winter.<br /><br />These wolves inhabit diverse environments across Eurasia, from Siberia’s cold tundra to Western Europe’s forests. Known to cover large territories, the wolf pack often preys on large hoofed mammals. <br /><br />Moreover, their howl is more prolonged and melodious than North American wolves.",
+      "slides_img": "slides_eurasian_wolf.webp", 
+      "wolf_img2": "eurasian_02.webp"
+    },
+    {
+      "id": 3,
+      "wolf_type": "Arctic Wolf",
+      "scientific_name": "Canis lupus arctos",
+      "wolf_img1": "arctic.webp",
+      "page_slug": "arctic",
+      "wiki": "https://en.wikipedia.org/wiki/Arctic_wolf",
+      "synopsis": "Standing 25 to 31 inches at the shoulder, the Arctic Wolf is a formidable predator suited for the frigid wilderness. Wrapped in their thick white coats, they effortlessly blend into the icy tundras. <br /><br />Their oversized paws, shorter ears, shorter muzzles, and pointed ears are also key adaptations for their habitats.<br /><br />Interestingly, unlike many wolf species, the Arctic Wolf seldom comes into contact with humans due to their remote habitat and, thus, rarely threatened by hunting or habitat loss.",
+      "slides_img": "slides_arctic_wolf.webp", 
+      "wolf_img2": "arctic_02.webp"
+    },
+    {
+      "id": 4,
+      "wolf_type": "Eastern Wolf",
+      "scientific_name": "Canis lupus lycaon",
+      "wolf_img1": "eastern.webp",
+      "page_slug": "eastern",
+      "wiki": "https://en.wikipedia.org/wiki/Eastern_wolf",
+      "synopsis": "The Eastern Wolf, also known as the Eastern Timber Wolf or Algonquin Wolf, is known for its medium-sized stature, typically between 50 and 80 pounds. These types of wolves sport a coat that blends red, brown, and grey, with lighter fur underneath. <br /><br />This species primarily inhabits the northeastern part of North America, thriving in mixed forests.<br /><br />Moreover, these types of wolves hunt alone or in small packs, primarily consuming small to medium-sized prey like white-tailed deer and beavers.",
+      "slides_img": "slides_eastern_wolf.webp", 
+      "wolf_img2": "eastern_02.webp"
+    },
+    {
+      "id": 5,
+      "wolf_type": "Northwestern Wolf",
+      "scientific_name": "Canis lupus occidentalis",
+      "wolf_img1": "northwestern.webp",
+      "page_slug": "northwestern",
+      "wiki": "https://en.wikipedia.org/wiki/Himalayan_wolf",
+      "synopsis": "The Northwestern Wolf, also known as the Mackenzie Valley or Alaskan Timber wolf, is among the largest wolf subspecies, with males averaging around 105 pounds and standing about 32-34 inches at the shoulder. <br /><br />Its impressive size accompanies a thick coat, often light gray but varying seasonally, which equips it to survive the harsh climes of its Northwestern North American range.<br /><br />Characteristically, they are pack hunters known for taking down large mammals, including bison and moose, proving their advanced hunting tactics.",
+      "slides_img": "slides_northwestern_wolf.webp", 
+      "wolf_img2": "northwestern_02.webp"
+    },
+
+    {
+      "id": 6,
+      "wolf_type": "Himalayan Wolf",
+      "scientific_name": "Canis lupus chanco",
+      "wolf_img1": "himalayan.webp",
+      "page_slug": "himalayan",
+      "wiki": "https://en.wikipedia.org/wiki/Himalayan_wolf",
+      "synopsis": "The Himalayan Wolf has a thick coat of pure white, gray, or cream fur, setting it apart visually from other subspecies. Measuring around 3 to 3.5 feet tall at the shoulder and up to 5 feet long, it lives in the high-altitude environments of the Himalayas in India, Nepal, and Pakistan.<br /><br />As a carnivore, it primarily feeds on small hoofed mammals found in its elevated habitat, like pikas, hares, and sheep. Multiple conservation acts protect these hunted wolves.<br /><br />Moreover, their howls have lower frequencies and shorter durations than other Holarctic wolves.",
+      "slides_img": "slides_himalayan_wolf.webp", 
+      "wolf_img2": "himalayan_02.webp"
+    },
+    {
+      "id": 7,
+      "wolf_type": "Steppe Wolf",
+      "scientific_name": "Canis lupus campestris",
+      "wolf_img1": "steppe.webp",
+      "page_slug": "steppe",
+      "wiki": "https://en.wikipedia.org/wiki/Steppe_wolf",
+      "synopsis": "The Steppe Wolf, also called the Caspian Wolf, displays a robust build and distinctive fur pattern ranging from a mixture of yellow to silver-grey, lending it an earthy blend. <br /><br />Predominantly found in the semi-desert regions of Russia, Ukraine, and Central Asia, these wolves favor open landscapes over enclosed forests.<br /><br />A carnivorous creature, the Steppe Wolf’s diet primarily consists of small to medium-sized mammals, including hares and rodents.",
+      "slides_img": "", 
+      "wolf_img2": "steppe_02.webp"
+    },
+    {
+      "id": 8,
+      "wolf_type": "Arabian Wolf",
+      "scientific_name": "Canis lupus arabs",
+      "wolf_img1": "arabian.webp",
+      "page_slug": "arabian",
+      "wiki": "https://en.wikipedia.org/wiki/Arabian_wolf",
+      "synopsis": "The Arabian Wolf, a slender, desert-dwelling species smaller than most other wolves, stands roughly 26 inches tall at the shoulder and weighs approximately 45 lbs. <br /><br />Sporting a sandy coat to blend into its arid surroundings, it makes its home across Israel, Jordan, Saudi Arabia, Yemen, and Oman.<br /><br />This omnivore’s diet consists primarily of small to medium-sized animals, such as hares, rodents, and desert vegetation. It has also been known to feed on roadkill and discarded remains from human settlements.",
+      "slides_img": "slides_arabian_wolf.webp", 
+      "wolf_img2": "arabian_02.webp"
+    },
+    {
+      "id": 9,
+      "wolf_type": "Mexican Wolf",
+      "scientific_name": "Canis lupus baileyi",
+      "wolf_img1": "mexican.webp",
+      "page_slug": "mexican",
+      "wiki": "https://en.wikipedia.org/wiki/Mexican_wolf",
+      "synopsis": "The Mexican Wolf, affectionately known as ’El Lobo’, is the smallest of the Gray Wolf’s subspecies. They have a blend of gray, black, and rust-colored fur, averaging a length of 4.5 to 5.5 feet from nose to tail. Typically, they reside in forests and grasslands across Mexico and the southwestern United States, particularly Arizona and New Mexico. <br /><br />These creatures are primarily carnivorous, feeding elk, deer, and other small mammals. Unfortunately, the Mexican Gray Wolf is classified as an endangered subspecies under the federal Endangered Species Act. <br /><br />However, as of February 28, 2023, Fish and Wildlife Services reports a hopeful increase in the Mexican grey wolf population to 241 in the US Southwest, distributed between New Mexico and Arizona. Nevertheless, they remain a species of concern, with various conservation plans underway to ensure their survival.", 
+      "slides_img": "slides_mexican_wolf.webp", 
+      "wolf_img2": "mexican_02.webp"
+    },
+    {
+      "id": 10,
+      "wolf_type": "Tundra Wolf",
+      "scientific_name": "Canis lupus albus",
+      "wolf_img1": "tundra.webp",
+      "page_slug": "tundra",
+      "wiki": "https://en.wikipedia.org/wiki/Alaskan_tundra_wolf",
+      "synopsis": "The Tundra Wolf, one of the largest grey wolf subspecies, has a mix of white and grey fur that allows it to blend into its frosty habitat. Native to Russia’s expansive northern tundra, this wolf is well-acclimated to the harsh, cold conditions and vast, open landscapes.<br /><br />These types of wolves have a particular preference for reindeer but sometimes prey on hares and arctic foxes.",
+      "slides_img": "slides_tundra_wolf.webp", 
+      "wolf_img2": "tundra_02.webp"
+    },
+
+    {
+      "id": 11,
+      "wolf_type": "Indian Wolf",
+      "scientific_name": "Canis lupus pallipes",
+      "wolf_img1": "indian.webp",
+      "page_slug": "indian",
+      "wiki": "https://en.wikipedia.org/wiki/Indian_wolf",
+      "synopsis": "The Indian Wolf, found mainly in India and Pakistan, dwells in diverse landscapes. These environments include grasslands, scrub, desert, and thin forest regions. This slender, medium-sized creature measures about 22-28 inches at the shoulder, with an overall length of around 57 inches.<br /><br />The diet of an Indian Wolf primarily comprises small mammals, including rodents, rabbits, and young gazelles. <br /><br />Furthermore, these less-studied subspecies employ a myriad of distinct vocalizations despite their smaller size3. These include howls, howl-barks, whimper, social squeaks, and whine, each characterized by unique frequencies.",
+      "slides_img": "slides_indian_wolf.webp", 
+      "wolf_img2": "indian_02.webp"
+    },
+    {
+      "id": 12,
+      "wolf_type": "Mackenzie River Wolf",
+      "scientific_name": "Canis lupus mackenzii",
+      "wolf_img1": "mackenzie.webp",
+      "page_slug": "mackenzie",
+      "wiki": "https://en.wikipedia.org/wiki/Mackenzie_River_wolf",
+      "synopsis": "The Mackenzie River Wolf is a breathtaking canine family member found in Canada’s Northwest Territories along the Mackenzie River. This wolf stands impressively at 3 feet tall at the shoulder, stretching 5 to 7 feet from nose to tail tip. Its dense, multi-toned grey coat serves as camouflage in its Arctic forest habitat. <br /><br />Reinforcing its enormous size, the Mackenzie River Wolf has a diet of large prey such as caribou, moose, and deer. Its status is currently classified as stable, though increased habitat encroachment poses future threats.",
+      "slides_img": "", 
+      "wolf_img2": "mackenzie_02.webp"
+    },
+    {
+      "id": 13,
+      "wolf_type": "Labrador Wolf",
+      "scientific_name": "Canis lupus labradorius",
+      "wolf_img1": "labrador.webp",
+      "page_slug": "labrador",
+      "wiki": "https://en.wikipedia.org/wiki/Labrador_wolf",
+      "synopsis": "The Labrador Wolf is primarily found in the Labrador region of Canada. They sport a predominantly white to pale-yellow coat, allowing them to blend seamlessly with their snowy habitat. <br /><br />An adult Labrador Wolf measures roughly 3-3.5 feet in height and can reach 4-5 feet long, making it one of the larger grey wolf subspecies.<br /><br />Furthermore, their diet mainly consists of caribou, as their habitat overlaps broadly with the migratory paths of the caribou herds.",
+      "slides_img": "", 
+      "wolf_img2": "labrador_02.webp"
+    },
+    {
+      "id": 14,
+      "wolf_type": "Northern Rocky Mountain Wolf",
+      "scientific_name": "Canis lupus irremotus",
+      "wolf_img1": "northern.webp",
+      "page_slug": "northern",
+      "wiki": "https://en.wikipedia.org/wiki/Northern_Rocky_Mountain_wolf",
+      "synopsis": "The Northern Rocky Mountain wolf, notable for its grey-brown fur, is a considerably large species within the Canine family. They command attention when averaging about 70 to 150 pounds and standing at 26 to 32 inches in length. <br /><br />They are indigenous to North America, thriving primarily in the Rocky Mountain regions of the United States.<br /><br />These wolves’ diet predominantly consists of ungulates like elk and deer. However, they are known to consume smaller mammals when needed.",
+      "slides_img": "slides_northern_wolf.webp", 
+      "wolf_img2": "northern_02.webp"
+    },
+    {
+      "id": 15,
+      "wolf_type": "Dingo",
+      "scientific_name": "Canis lupus dingo",
+      "wolf_img1": "dingo.webp",
+      "page_slug": "dingo",
+      "wiki": "https://en.wikipedia.org/wiki/Canis_lupus_dingo",
+      "synopsis": "The Dingo, predominantly found in Australia, is physically distinguished by their short, soft fur, displaying a color spectrum from ginger to reddish brown. Ranging between 3.5 to 4 feet long, they stand approximately 2 feet tall, hosting a weight of around 30-50 pounds.<br /><br />Predominantly carnivorous, Dingoes feast on mammals like rabbits and kangaroos and adjust their diet with fruits and insects. Due to interbreeding with domestic dogs, it is classified as vulnerable by the IUCN.",
+      "slides_img": "slides_dingo.webp", 
+      "wolf_img2": "dingo_02.webp"
+    },
+
+    {
+      "id": 16,
+      "wolf_type": "Mongolian Wolf",
+      "scientific_name": "Canis lupus chanco",
+      "wolf_img1": "mongolian.webp",
+      "page_slug": "mongolian",
+      "wiki": "https://en.wikipedia.org/wiki/Mongolian_wolf",
+      "synopsis": "The Mongolian Wolf, also called the Tibetan Wolf, boasts a unique coat of dense fur that varies in color — from hues of white and cream to deep grays and browns. It’s often larger than its counterparts, typically measuring around 60 to 70 inches long.<br /><br />This canid creature lives in Mongolia and China, traversing harsh terrains and forests for its primary diet: ungulates like deer and elk.",
+      "slides_img": "slides_mongolian_wolf.webp", 
+      "wolf_img2": "mongolian_02.webp"
+    },
+    {
+      "id": 17,
+      "wolf_type": "Greenland Wolf",
+      "scientific_name": "Canis lupus orion",
+      "wolf_img1": "greenland.webp",
+      "page_slug": "greenland",
+      "wiki": "https://en.wikipedia.org/wiki/Greenland_wolf",
+      "synopsis": "The Greenland wolf, a typically smaller subspecies of the gray wolf, can be instantly recognized by its distinctive white fur. This wolf is scarcely larger than a German shepherd. Moreover, they are adapted to the harsh, icy landscapes of the Northeast Greenland National Park, home to over 90% of the species. ",
+      "slides_img": "slides_greenland_wolf.webp", 
+      "wolf_img2": "greenland_02.webp"
+    },
+    {
+      "id": 18,
+      "wolf_type": "Domestic Dog",
+      "scientific_name": "Canis lupus familiaris",
+      "wolf_img1": "dog.webp",
+      "page_slug": "dog",
+      "wiki": "https://en.wikipedia.org/wiki/Dog",
+      "synopsis": "Dogs, today’s beloved and widely cherished pets, trace their beginnings back to wolves. Genetic studies suggest dogs diverged from their wild counterparts around 27,000 years ago, a transformation guided largely by humans.<br /><br />Emphasizing this, humans gradually tamed wolves, selecting the most docile to breed. Over millennia, this patient and careful process gave birth to the diverse spectrum of dog breeds we’re accustomed to seeing today. Dogs are now global companions, revealing how much this evolution has resonated with human societies.<br /><br />According to the World Canine Organization, over 340 officially recognized dog breeds are worldwide. This impressively varied range of breeds points to the extensive involvement of humans in dog evolution.",
+      "slides_img": "", 
+      "wolf_img2": "dog_02.webp"
+    },
+    {
+      "id": 19,
+      "wolf_type": "Red Wolf",
+      "scientific_name": "Canis rufus",
+      "wolf_img1": "red.webp",
+      "page_slug": "red",
+      "wiki": "https://en.wikipedia.org/wiki/Red_wolf",
+      "synopsis": "Red Wolves are a distinct species known for their reddish-tan fur. A fully grown wolf averages 4.5 to 5.5 feet in length, fluctuating around 50 to 80 pounds. Predominantly, their habitat is found in the southeastern region of the United States, with a preference for forested and coastal prairie environments.<br /><br />Unfortunately, the Red Wolf populations are experiencing a drastic downward trend. Currently classified as critically endangered, only about 20 to 30 individuals remain in the wild. Their survival is now largely dependent on protective measures and conservation efforts.",
+      "slides_img": "slides_red_wolf.webp", 
+      "wolf_img2": "red_02.webp"
+    },
+    {
+      "id": 20,
+      "wolf_type": "Abyssinian Wolf",
+      "scientific_name": "Canis simensis",
+      "wolf_img1": "abyssinian.webp",
+      "page_slug": "abyssinian",
+      "wiki": "https://en.wikipedia.org/wiki/Ethiopian_wolf",
+      "synopsis": "Also known as the Ethiopian wolf, the Abyssinian wolf is a distinctively red-coated canine roughly the size of a coyote. Sporting a lean, elegant body that stands approximately 25 inches tall at the shoulder, this species’ reddish-brown fur makes it easily recognizable.<br /><br />Our last types of wolves live in the high-altitude regions of Ethiopia, preferring afro-alpine habitats above 10,000 feet.<br /><br />Regrettably, their population is declining, with an estimated count of fewer than 500 adults. Their conservation status is labeled as Endangered by the IUCN, a testament to their delicate existence.",
+      "slides_img": "", 
+      "wolf_img2": "abyssinian_02.webp"
+    }
+  ]
+}
